@@ -1,0 +1,20 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* background sezione header */
+.headerbg {
+    background-color: rgb(78, 160, 255);
+    height: 200px;
+    background-image: url(../images/pattern.png);
+    background-size: 30%;
+    position: relative;
+    }
+
+.logo1 {
+    width: 10%;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}    
