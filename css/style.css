@@ -98,6 +98,7 @@ table {
     width: 300px;
     background-image: url(../images/monitor.jpg);
     margin-bottom: 10px;
+    position: relative;
 }
 
 .picture2{
@@ -105,4 +106,14 @@ table {
     width: 300px;
     background-image: url(../images/graph.jpg);
     margin-bottom: 30px;
+    position: relative;
+}
+
+.t1footer {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
