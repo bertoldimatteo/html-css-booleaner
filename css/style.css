@@ -92,3 +92,17 @@ table {
 .tbgc {
     background-color: rgb(177,229,242);
 }
+
+.picture1{
+    height: 200px;
+    width: 300px;
+    background-image: url(../images/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+.picture2{
+    height: 200px;
+    width: 300px;
+    background-image: url(../images/graph.jpg);
+    margin-bottom: 30px;
+}
